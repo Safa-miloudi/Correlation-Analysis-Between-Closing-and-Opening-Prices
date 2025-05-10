@@ -32,11 +32,3 @@ This project explores the **correlation between the opening and closing prices**
 - Normalizing the data helped better visualize and compare the variables.
 - Multiple plots were used to illustrate patterns and relationships.
 
-## 🚀 How to Run
-
-### Option 1: Run locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
