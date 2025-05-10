@@ -6,8 +6,18 @@ This project explores the **correlation between the opening and closing prices**
 
 - `analyse-de-la-corr-lation-entre-le-prix-de-fermeture.ipynb`  
   Jupyter notebook containing the full analysis and visualizations (written in R).
-- `README.md`  
-  This documentation file.
+- `README.md` This documentation file.
+-  Dataset  The dataset used is stored in `NASDAQ.csv` and contains 250 rows of historical NASDAQ market data, with the following columns:
+
+| Column      | Description                                                                 |
+|-------------|-----------------------------------------------------------------------------|
+| `Date`      | The trading date (format: YYYY-MM-DD)                                       |
+| `Open`      | The opening price of the NASDAQ index on that day                           |
+| `High`      | The highest price reached during the trading day                            |
+| `Low`       | The lowest price during the trading day                                     |
+| `Close`     | The final closing price at the end of the trading day                       |
+| `Adj Close` | Adjusted closing price (corrected for dividends and stock splits)           |
+| `Volume`    | Number of shares traded (daily trading volume)                              |
 
 ## 🛠️ Technologies Used
 
