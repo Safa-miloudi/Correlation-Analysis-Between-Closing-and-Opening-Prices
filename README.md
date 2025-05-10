@@ -1,4 +1,3 @@
-readme_content = """
 # 🧠 Correlation Analysis Between Closing and Opening Prices
 
 This project explores the **correlation between the opening and closing prices** of a financial asset using historical data. The aim is to analyze the statistical relationship between these two variables through **normalization**, **visualization**, and **correlation analysis**.
